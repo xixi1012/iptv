@@ -1,10 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://10.10.1.1/aptv3045.m3u
+#EXT-X-APTV-TYPE 本地
 
-#EXTINF:-1 group-title="4K",BTV纪实科教 8K
-http://159.75.85.63:6798
 #EXTINF:-1 group-title="4K",爱上4k
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="4K",纯享4k
