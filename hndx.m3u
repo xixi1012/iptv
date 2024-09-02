@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1
-http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+http://219.150.217.47:6610/PLTV1/40/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-2
-http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+http://219.150.217.47:6610/PLTV1/60/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-3
-http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+http://219.150.217.47:6610/PLTV1/80/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-4
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
 #EXTINF:-1,CCTV-5
