@@ -7,8 +7,8 @@ http://219.150.217.47:6610/PLTV1/60/index.m3u8?fmt=ts2hls
 http://219.150.217.47:6610/PLTV1/80/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",group-title="央视频道",CCTV-4中文国际
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,CCTV-5
-http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",group-title="央视频道",CCTV-5体育
+http://219.150.217.47:6610/PLTV1/120/index.m3u8?/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-6
 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 #EXTINF:-1,CCTV-7
