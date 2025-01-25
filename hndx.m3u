@@ -31,12 +31,12 @@ http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
-#EXTINF:-1,CGTN
-http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南卫视4K测试
+http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南卫视
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 #EXTINF:-1,CETV1
 http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 #EXTINF:-1,浙江卫视
@@ -111,8 +111,6 @@ http://219.150.217.47:6610/PLTV1/1580/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/1600/index.m3u8?icpid=dxrm1
 #EXTINF:-1,优漫卡通
 http://219.150.217.47:6610/PLTV1/1660/index.m3u8?icpid=dxrm1
-#EXTINF:-1,河南卫视
-http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 #EXTINF:-1,河南都市
 http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
 #EXTINF:-1,河南民生
@@ -145,8 +143,6 @@ http://219.150.217.47:6610/PLTV1/860/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/920/index.m3u8?icpid=dxrm1
 #EXTINF:-1,风尚河南
 http://219.150.217.47:6610/PLTV1/940/index.m3u8?icpid=dxrm1
-#EXTINF:-1,河南卫视4K测试
-http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 #EXTINF:-1,河南IPTV导视
 http://219.150.217.47:6610/PLTV2/3540/index.m3u8?icpid=dxrm1
 #EXTINF:-1,大象新闻
@@ -227,3 +223,5 @@ http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 #EXTINF:-1,洛宁电视台
 http://tvpull.dxhmt.cn:9081/tv/10328-1.m3u8
+#EXTINF:-1,CGTN
+http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
