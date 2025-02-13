@@ -1,0 +1,36 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="未分类",移动戏曲
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
+#EXTINF:-1 group-title="未分类",游戏风云
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
+#EXTINF:-1 group-title="未分类",中华功夫
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+#EXTINF:-1 group-title="未分类",中华特产
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/1.m3u8
+#EXTINF:-1 group-title="未分类",财富天下
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226696/1.m3u8
+#EXTINF:-1 group-title="未分类",茶频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/1.m3u8
+#EXTINF:-1 group-title="未分类",车迷频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226666/1.m3u8
+#EXTINF:-1 group-title="未分类",导视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/1.m3u8
+#EXTINF:-1 group-title="未分类",东方财经
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/1.m3u8
+#EXTINF:-1 group-title="未分类",都市剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/1.m3u8
+#EXTINF:-1 group-title="未分类",法治天地
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
+#EXTINF:-1 group-title="未分类",风尚购物
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226625/1.m3u8
+#EXTINF:-1 group-title="未分类",股票
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226718/1.m3u8
+#EXTINF:-1 group-title="未分类",国学频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/1.m3u8
+#EXTINF:-1 group-title="未分类",好享购物
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226728/1.m3u8
+#EXTINF:-1 group-title="未分类",百姓调解
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
