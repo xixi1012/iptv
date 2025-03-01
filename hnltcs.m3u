@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
-
+#EXTINF:-1 group-title="未分类",CCTV-1高清
+rtp://@225.1.4.73:1102
 #EXTINF:-1 group-title="未分类",河南都市频道
 rtp://@225.1.4.52:1081
 #EXTINF:-1 group-title="未分类",河南民生频道
