@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1,CCTV-1
+http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南卫视4K测试
+http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南卫视
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南都市
+http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
+#EXTINF:-1,河南民生
+http://219.150.217.47:6610/PLTV1/620/index.m3u8?icpid=dxrm1
