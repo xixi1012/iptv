@@ -2,39 +2,39 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 group-title="未分类",CCTV-1
+#EXTINF:-1 group-title="未分类",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-2
+#EXTINF:-1 group-title="未分类",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-3
+#EXTINF:-1 group-title="未分类",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-4
+#EXTINF:-1 group-title="未分类",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-5
+#EXTINF:-1 group-title="未分类",CCTV5
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-5+
+#EXTINF:-1 group-title="未分类",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-6
+#EXTINF:-1 group-title="未分类",CCTV6
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-7
+#EXTINF:-1 group-title="未分类",CCTV7
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-8
+#EXTINF:-1 group-title="未分类",CCTV8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227264/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-9
+#EXTINF:-1 group-title="未分类",CCTV9
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-10
+#EXTINF:-1 group-title="未分类",CCTV10
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-11
+#EXTINF:-1 group-title="未分类",CCTV11
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-12
+#EXTINF:-1 group-title="未分类",CCTV12
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-13
+#EXTINF:-1 group-title="未分类",CCTV13
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-14
+#EXTINF:-1 group-title="未分类",CCTV14
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-15
+#EXTINF:-1 group-title="未分类",CCTV15
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV-17
+#EXTINF:-1 group-title="未分类",CCTV17
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/1.m3u8
 #EXTINF:-1 group-title="未分类",CETV-1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/1.m3u8
