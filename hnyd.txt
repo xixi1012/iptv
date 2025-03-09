@@ -15,6 +15,8 @@ CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/1.m3u8
+CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/1.m3u8
+欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/1.m3u8
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/1.m3u8
 CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/1.m3u8
@@ -116,3 +118,4 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/1.m3u8
 欢腾购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226535/1.m3u8
 好享购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226728/1.m3u8
 央广购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226675/1.m3u8
+
