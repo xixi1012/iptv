@@ -1,0 +1,371 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1高清" tvg-logo="https://epg.v1.mk/logo/CCTV-1%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-1高清
+rtp://225.1.4.73:1102
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2高清" tvg-logo="https://epg.v1.mk/logo/CCTV-2%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-2高清
+rtp://225.1.4.74:1103
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3高清" tvg-logo="https://epg.v1.mk/logo/CCTV-3%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-3高清
+rtp://225.1.4.158:1194
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4高清" tvg-logo="https://epg.v1.mk/logo/CCTV-4%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-4高清
+rtp://225.1.5.30:1333
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5高清" tvg-logo="https://epg.v1.mk/logo/CCTV-5%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-5高清
+rtp://225.1.4.159:1195
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6高清" tvg-logo="https://epg.v1.mk/logo/CCTV-6%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-6高清
+rtp://225.1.4.160:1196
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7高清" tvg-logo="https://epg.v1.mk/logo/CCTV-7%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-7高清
+rtp://225.1.4.76:1105
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8高清" tvg-logo="https://epg.v1.mk/logo/CCTV-8%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-8高清
+rtp://225.1.4.161:1197
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9高清" tvg-logo="https://epg.v1.mk/logo/CCTV-9%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-9高清
+rtp://225.1.4.77:1106
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10高清" tvg-logo="https://epg.v1.mk/logo/CCTV-10%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-10高清
+rtp://225.1.4.78:1107
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11高清" tvg-logo="https://epg.v1.mk/logo/CCTV-11%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-11高清
+rtp://225.1.4.215:1268
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12高清" tvg-logo="https://epg.v1.mk/logo/CCTV-12%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-12高清
+rtp://225.1.4.79:1108
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13高清" tvg-logo="https://epg.v1.mk/logo/CCTV-13%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-13高清
+rtp://225.1.4.113:1293
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14高清" tvg-logo="https://epg.v1.mk/logo/CCTV-14%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-14高清
+rtp://225.1.4.80:1109
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15高清" tvg-logo="https://epg.v1.mk/logo/CCTV-15%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-15高清
+rtp://225.1.4.216:1269
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16高清" tvg-logo="https://epg.v1.mk/logo/CCTV-16%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-16高清
+rtp://225.1.5.46:1356
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17高清" tvg-logo="https://epg.v1.mk/logo/CCTV-17%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-17高清
+rtp://225.1.4.226:2506
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5＋高清" tvg-logo="https://epg.v1.mk/logo/CCTV-5%EF%BC%8B%E9%AB%98%E6%B8%85.png" group-title="IPTV" CCTV-5＋高清
+rtp://225.1.4.75:1104
+#EXTINF:-1 tvg-id="" tvg-name="河南移动电视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="IPTV" 河南移动电视
+rtp://225.1.5.40:1350
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="IPTV" CGTN
+rtp://225.1.4.16:1045
+#EXTINF:-1 tvg-id="" tvg-name="环球购物" tvg-logo="https://epg.v1.mk/logo/%E7%8E%AF%E7%90%83%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 环球购物
+rtp://225.1.4.229:1275
+#EXTINF:-1 tvg-id="" tvg-name="家有购物" tvg-logo="https://epg.v1.mk/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 家有购物
+rtp://225.1.4.223:1273
+#EXTINF:-1 tvg-id="" tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 央广购物
+rtp://225.1.4.230:1276
+#EXTINF:-1 tvg-id="" tvg-name="快乐购" tvg-logo="https://epg.v1.mk/logo/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="IPTV" 快乐购
+rtp://225.1.4.231:1277
+#EXTINF:-1 tvg-id="" tvg-name="好享购物" tvg-logo="https://epg.v1.mk/logo/%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 好享购物
+rtp://225.1.4.232:1278
+#EXTINF:-1 tvg-id="" tvg-name="风尚购物" tvg-logo="https://epg.v1.mk/logo/%E9%A3%8E%E5%B0%9A%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 风尚购物
+rtp://225.1.4.233:1279
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 河南卫视高清
+rtp://225.1.4.98:1127
+#EXTINF:-1 tvg-id="" tvg-name="河南都市频道高清" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.png" group-title="IPTV" 河南都市频道高清
+rtp://225.1.4.52:1081
+#EXTINF:-1 tvg-id="" tvg-name="河南民生频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南民生频道
+rtp://225.1.4.53:1082
+#EXTINF:-1 tvg-id="" tvg-name="河南法治频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南法治频道
+rtp://225.1.4.54:1083
+#EXTINF:-1 tvg-id="" tvg-name="河南电视剧频道高清" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.png" group-title="IPTV" 河南电视剧频道高清
+rtp://225.1.4.55:1084
+#EXTINF:-1 tvg-id="" tvg-name="河南新闻频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南新闻频道
+rtp://225.1.4.56:1085
+#EXTINF:-1 tvg-id="" tvg-name="河南欢腾购物" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 河南欢腾购物
+rtp://225.1.4.57:1086
+#EXTINF:-1 tvg-id="" tvg-name="河南公共频道高清" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.png" group-title="IPTV" 河南公共频道高清
+rtp://225.1.4.58:1087
+#EXTINF:-1 tvg-id="" tvg-name="河南乡村频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南乡村频道
+rtp://225.1.4.120:1149
+#EXTINF:-1 tvg-id="" tvg-name="河南国际频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南国际频道
+rtp://225.1.4.102:1131
+#EXTINF:-1 tvg-id="" tvg-name="睛彩中原" tvg-logo="https://epg.v1.mk/logo/%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F.png" group-title="IPTV" 睛彩中原
+rtp://225.1.4.163:1203
+#EXTINF:-1 tvg-id="" tvg-name="移动戏曲" tvg-logo="https://epg.v1.mk/logo/%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2.png" group-title="IPTV" 移动戏曲
+rtp://225.1.4.206:1254
+#EXTINF:-1 tvg-id="" tvg-name="河南文物宝库" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="IPTV" 河南文物宝库
+rtp://225.1.4.100:1129
+#EXTINF:-1 tvg-id="" tvg-name="河南梨园频道" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="IPTV" 河南梨园频道
+rtp://225.1.4.99:1128
+#EXTINF:-1 tvg-id="" tvg-name="河南武术世界" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="IPTV" 河南武术世界
+rtp://225.1.4.101:1130
+#EXTINF:-1 tvg-id="" tvg-name="郑州时政高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%97%B6%E6%94%BF%E9%AB%98%E6%B8%85.png" group-title="IPTV" 郑州时政高清
+rtp://225.1.4.140:1176
+#EXTINF:-1 tvg-id="" tvg-name="郑州商都高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%95%86%E9%83%BD%E9%AB%98%E6%B8%85.png" group-title="IPTV" 郑州商都高清
+rtp://225.1.4.141:1177
+#EXTINF:-1 tvg-id="" tvg-name="郑州文体高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%96%87%E4%BD%93%E9%AB%98%E6%B8%85.png" group-title="IPTV" 郑州文体高清
+rtp://225.1.4.142:1178
+#EXTINF:-1 tvg-id="" tvg-name="郑州影视戏曲" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%BD%B1%E8%A7%86%E6%88%8F%E6%9B%B2.png" group-title="IPTV" 郑州影视戏曲
+rtp://225.1.4.146:1182
+#EXTINF:-1 tvg-id="" tvg-name="郑州妇女儿童" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5.png" group-title="IPTV" 郑州妇女儿童
+rtp://225.1.4.147:1183
+#EXTINF:-1 tvg-id="" tvg-name="郑州都市生活" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.png" group-title="IPTV" 郑州都市生活
+rtp://225.1.4.149:1185
+#EXTINF:-1 tvg-id="" tvg-name="郑州市教育电视台" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="IPTV" 郑州市教育电视台
+rtp://225.1.4.191:1241
+#EXTINF:-1 tvg-id="" tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="IPTV" 新密综合
+rtp://225.1.4.239:1285
+#EXTINF:-1 tvg-id="" tvg-name="登封综合" tvg-logo="https://epg.v1.mk/logo/%E7%99%BB%E5%B0%81%E7%BB%BC%E5%90%88.png" group-title="IPTV" 登封综合
+rtp://225.1.4.240:1286
+#EXTINF:-1 tvg-id="" tvg-name="中牟综合" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E7%89%9F%E7%BB%BC%E5%90%88.png" group-title="IPTV" 中牟综合
+rtp://225.1.4.244:1290
+#EXTINF:-1 tvg-id="" tvg-name="国学频道" tvg-logo="https://epg.v1.mk/logo/%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93.png" group-title="IPTV" 国学频道
+rtp://225.1.4.196:1311
+#EXTINF:-1 tvg-id="" tvg-name="欢腾购物" tvg-logo="https://epg.v1.mk/logo/%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9.png" group-title="IPTV" 欢腾购物
+rtp://225.1.4.236:1282
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 湖南卫视高清
+rtp://225.1.4.82:1111
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 江苏卫视高清
+rtp://225.1.4.83:1112
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 浙江卫视高清
+rtp://225.1.4.84:1113
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 北京卫视高清
+rtp://225.1.4.81:1110
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视高清" tvg-logo="https://epg.v1.mk/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 东方卫视高清
+rtp://225.1.4.85:1114
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 天津卫视高清
+rtp://225.1.4.86:1115
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 山东卫视高清
+rtp://225.1.4.88:1117
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 安徽卫视高清
+rtp://225.1.4.87:1116
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 深圳卫视高清
+rtp://225.1.4.90:1119
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 江西卫视高清
+rtp://225.1.4.139:1305
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 湖北卫视高清
+rtp://225.1.4.89:1118
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 四川卫视高清
+rtp://225.1.4.151:1306
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视高清" tvg-logo="https://epg.v1.mk/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 黑龙江卫视高清
+rtp://225.1.4.91:1120
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视高清" tvg-logo="https://epg.v1.mk/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 云南卫视高清
+rtp://225.1.4.152:1307
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视高清" tvg-logo="https://epg.v1.mk/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 贵州卫视高清
+rtp://225.1.4.122:1302
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视高清" tvg-logo="https://epg.v1.mk/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 辽宁卫视高清
+rtp://225.1.4.167:1208
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视高清" tvg-logo="https://epg.v1.mk/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 东南卫视高清
+rtp://225.1.4.228:1274
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视高清" tvg-logo="https://epg.v1.mk/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 重庆卫视高清
+rtp://225.1.4.157:1308
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 广东卫视高清
+rtp://225.1.4.166:1207
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 广西卫视
+rtp://225.1.4.31:1060
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 河北卫视高清
+rtp://225.1.4.123:1304
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 海南卫视
+rtp://225.1.4.25:1054
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视高清" tvg-logo="https://epg.v1.mk/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 吉林卫视高清
+rtp://225.1.4.174:1309
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 山西卫视
+rtp://225.1.4.38:1067
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 陕西卫视
+rtp://225.1.4.39:1068
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 甘肃卫视
+rtp://225.1.4.42:1071
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 宁夏卫视
+rtp://225.1.4.43:1072
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 青海卫视
+rtp://225.1.4.44:1073
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 内蒙古卫视
+rtp://225.1.4.45:1074
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 西藏卫视
+rtp://225.1.4.46:1075
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 新疆卫视
+rtp://225.1.4.47:1076
+#EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-logo="https://epg.v1.mk/logo/%E5%8D%A1%E9%85%B7%E5%8A%A8%E7%94%BB.png" group-title="IPTV" 卡酷动画
+rtp://225.1.4.48:1077
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="IPTV" 金鹰卡通
+rtp://225.1.4.49:1078
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="IPTV" 嘉佳卡通
+rtp://225.1.4.92:1121
+#EXTINF:-1 tvg-id="1" tvg-name="中国教育-1高清" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2-1%E9%AB%98%E6%B8%85.png" group-title="IPTV" 中国教育-1高清
+rtp://225.1.4.173:1712
+#EXTINF:-1 tvg-id="4" tvg-name="中国教育-4" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2-4.png" group-title="IPTV" 中国教育-4
+rtp://225.1.4.171:1710
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 厦门卫视
+rtp://225.1.4.95:1124
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实高清" tvg-logo="https://epg.v1.mk/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E%E9%AB%98%E6%B8%85.png" group-title="IPTV" 金鹰纪实高清
+rtp://225.1.4.172:1711
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 兵团卫视
+rtp://225.1.4.97:1126
+#EXTINF:-1 tvg-id="2" tvg-name="中国教育-2" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2-2.png" group-title="IPTV" 中国教育-2
+rtp://225.1.4.165:1206
+#EXTINF:-1 tvg-id="4K" tvg-name="爱上-4k" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%B8%8A-4k.png" group-title="IPTV" 爱上-4k
+rtp://225.1.4.162:1204
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="IPTV" 山东教育
+rtp://225.1.4.164:1205
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 三沙卫视
+rtp://225.1.4.234:1280
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视高清" tvg-logo="https://epg.v1.mk/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="IPTV" 海南卫视高清
+rtp://225.1.4.195:1310
+#EXTINF:-1 tvg-id="" tvg-name="健康中原" tvg-logo="https://epg.v1.mk/logo/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png" group-title="IPTV" 健康中原
+rtp://225.1.5.48:1358
+#EXTINF:-1 tvg-id="" tvg-name="巩义综合" tvg-logo="https://epg.v1.mk/logo/%E5%B7%A9%E4%B9%89%E7%BB%BC%E5%90%88.png" group-title="IPTV" 巩义综合
+rtp://225.1.5.50:1360
+#EXTINF:-1 tvg-id="" tvg-name="新郑综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E9%83%91%E7%BB%BC%E5%90%88.png" group-title="IPTV" 新郑综合
+rtp://225.1.4.243:1289
+#EXTINF:-1 tvg-id="" tvg-name="调解剧场" tvg-logo="https://epg.v1.mk/logo/%E8%B0%83%E8%A7%A3%E5%89%A7%E5%9C%BA.png" group-title="IPTV" 调解剧场
+rtp://225.1.5.49:1359
+#EXTINF:-1 tvg-id="" tvg-name="体育竞技高清" tvg-logo="https://epg.v1.mk/logo/%E4%BD%93%E8%82%B2%E7%AB%9E%E6%8A%80%E9%AB%98%E6%B8%85.png" group-title="IPTV" 体育竞技高清
+rtp://225.1.4.235:1281
+#EXTINF:-1 tvg-id="CHC" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="IPTV" CHC家庭影院
+rtp://225.1.4.209:1262
+#EXTINF:-1 tvg-id="CHC" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="IPTV" CHC动作电影
+rtp://225.1.4.208:1261
+#EXTINF:-1 tvg-id="CHC" tvg-name="CHC高清电影" tvg-logo="https://epg.v1.mk/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="IPTV" CHC高清电影
+rtp://225.1.4.207:1260
+#EXTINF:-1 tvg-id="" tvg-name="网络棋牌" tvg-logo="https://epg.v1.mk/logo/%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C.png" group-title="IPTV" 网络棋牌
+rtp://225.1.4.211:1264
+#EXTINF:-1 tvg-id="" tvg-name="乒羽频道" tvg-logo="https://epg.v1.mk/logo/%E4%B9%92%E7%BE%BD%E9%A2%91%E9%81%93.png" group-title="IPTV" 乒羽频道
+rtp://225.1.4.210:1263
+#EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="IPTV" 新动漫
+rtp://225.1.4.212:1265
+#EXTINF:-1 tvg-id="" tvg-name="音乐现场" tvg-logo="https://epg.v1.mk/logo/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="IPTV" 音乐现场
+rtp://225.1.4.184:1224
+#EXTINF:-1 tvg-id="" tvg-name="爱生活" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="IPTV" 爱生活
+rtp://225.1.4.176:1225
+#EXTINF:-1 tvg-id="" tvg-name="好学生" tvg-logo="https://epg.v1.mk/logo/%E5%A5%BD%E5%AD%A6%E7%94%9F.png" group-title="IPTV" 好学生
+rtp://225.1.4.177:1226
+#EXTINF:-1 tvg-id="" tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/%E5%9B%BD%E5%AD%A6.png" group-title="IPTV" 国学
+rtp://225.1.4.178:1227
+#EXTINF:-1 tvg-id="" tvg-name="早教" tvg-logo="https://epg.v1.mk/logo/%E6%97%A9%E6%95%99.png" group-title="IPTV" 早教
+rtp://225.1.4.179:1228
+#EXTINF:-1 tvg-id="" tvg-name="高网" tvg-logo="https://epg.v1.mk/logo/%E9%AB%98%E7%BD%91.png" group-title="IPTV" 高网
+rtp://225.1.4.180:1229
+#EXTINF:-1 tvg-id="" tvg-name="军事" tvg-logo="https://epg.v1.mk/logo/%E5%86%9B%E4%BA%8B.png" group-title="IPTV" 军事
+rtp://225.1.4.181:1230
+#EXTINF:-1 tvg-id="" tvg-name="美妆" tvg-logo="https://epg.v1.mk/logo/%E7%BE%8E%E5%A6%86.png" group-title="IPTV" 美妆
+rtp://225.1.4.182:1231
+#EXTINF:-1 tvg-id="" tvg-name="地理" tvg-logo="https://epg.v1.mk/logo/%E5%9C%B0%E7%90%86.png" group-title="IPTV" 地理
+rtp://225.1.4.183:1232
+#EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="https://epg.v1.mk/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="IPTV" 经典电影
+rtp://225.1.4.175:1233
+#EXTINF:-1 tvg-id="" tvg-name="精选" tvg-logo="https://epg.v1.mk/logo/%E7%B2%BE%E9%80%89.png" group-title="IPTV" 精选
+rtp://225.1.4.253:1299
+#EXTINF:-1 tvg-id="" tvg-name="美食汇" tvg-logo="https://epg.v1.mk/logo/%E7%BE%8E%E9%A3%9F%E6%B1%87.png" group-title="IPTV" 美食汇
+rtp://225.1.5.52:1362
+#EXTINF:-1 tvg-id="" tvg-name="棋牌汇" tvg-logo="https://epg.v1.mk/logo/%E6%A3%8B%E7%89%8C%E6%B1%87.png" group-title="IPTV" 棋牌汇
+rtp://225.1.5.51:1361
+#EXTINF:-1 tvg-id="" tvg-name="足球" tvg-logo="https://epg.v1.mk/logo/%E8%B6%B3%E7%90%83.png" group-title="IPTV" 足球
+rtp://225.1.4.200:1250
+#EXTINF:-1 tvg-id="IPTV" tvg-name="IPTV谍战剧场" tvg-logo="https://epg.v1.mk/logo/IPTV%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="IPTV" IPTV谍战剧场
+rtp://225.1.4.185:1240
+#EXTINF:-1 tvg-id="IPTV" tvg-name="IPTV相声小品" tvg-logo="https://epg.v1.mk/logo/IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="IPTV" IPTV相声小品
+rtp://225.1.4.186:1235
+#EXTINF:-1 tvg-id="IPTV" tvg-name="IPTV野外" tvg-logo="https://epg.v1.mk/logo/IPTV%E9%87%8E%E5%A4%96.png" group-title="IPTV" IPTV野外
+rtp://225.1.4.187:1236
+#EXTINF:-1 tvg-id="IPTV" tvg-name="IPTV法治" tvg-logo="https://epg.v1.mk/logo/IPTV%E6%B3%95%E6%B2%BB.png" group-title="IPTV" IPTV法治
+rtp://225.1.4.188:1237
+#EXTINF:-1 tvg-id="" tvg-name="少儿动画" tvg-logo="https://epg.v1.mk/logo/%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="IPTV" 少儿动画
+rtp://225.1.4.189:1238
+#EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="https://epg.v1.mk/logo/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="IPTV" 热播剧场
+rtp://225.1.4.190:1239
+#EXTINF:-1 tvg-id="" tvg-name="魅力时尚" tvg-logo="https://epg.v1.mk/logo/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png" group-title="IPTV" 魅力时尚
+rtp://225.1.4.205:1253
+#EXTINF:-1 tvg-id="" tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="IPTV" 爱综艺
+rtp://225.1.4.204:1252
+#EXTINF:-1 tvg-id="" tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2.png" group-title="IPTV" 爱体育
+rtp://225.1.4.5:1034
+#EXTINF:-1 tvg-id="" tvg-name="爱电影" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%94%B5%E5%BD%B1.png" group-title="IPTV" 爱电影
+rtp://225.1.4.6:1035
+#EXTINF:-1 tvg-id="" tvg-name="爱大剧" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A4%A7%E5%89%A7.png" group-title="IPTV" 爱大剧
+rtp://225.1.4.8:1037
+#EXTINF:-1 tvg-id="" tvg-name="收视指南" tvg-logo="https://epg.v1.mk/logo/%E6%94%B6%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="IPTV" 收视指南
+rtp://225.1.4.50:1079
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" tvg-logo="https://epg.v1.mk/logo/CCTV-1.png" group-title="IPTV" CCTV-1
+rtp://225.1.4.1:1030
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" tvg-logo="https://epg.v1.mk/logo/CCTV-2.png" group-title="IPTV" CCTV-2
+rtp://225.1.4.2:1031
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" tvg-logo="https://epg.v1.mk/logo/CCTV-4.png" group-title="IPTV" CCTV-4
+rtp://225.1.4.4:1033
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" tvg-logo="https://epg.v1.mk/logo/CCTV-7.png" group-title="IPTV" CCTV-7
+rtp://225.1.4.7:1036
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" tvg-logo="https://epg.v1.mk/logo/CCTV-9.png" group-title="IPTV" CCTV-9
+rtp://225.1.4.9:1038
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" tvg-logo="https://epg.v1.mk/logo/CCTV-10.png" group-title="IPTV" CCTV-10
+rtp://225.1.4.10:1039
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" tvg-logo="https://epg.v1.mk/logo/CCTV-11.png" group-title="IPTV" CCTV-11
+rtp://225.1.4.11:1040
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" tvg-logo="https://epg.v1.mk/logo/CCTV-12.png" group-title="IPTV" CCTV-12
+rtp://225.1.4.12:1041
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" tvg-logo="https://epg.v1.mk/logo/CCTV-13.png" group-title="IPTV" CCTV-13
+rtp://225.1.4.13:1042
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" tvg-logo="https://epg.v1.mk/logo/CCTV-14.png" group-title="IPTV" CCTV-14
+rtp://225.1.4.14:1043
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" tvg-logo="https://epg.v1.mk/logo/CCTV-15.png" group-title="IPTV" CCTV-15
+rtp://225.1.4.15:1044
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17" tvg-logo="https://epg.v1.mk/logo/CCTV-17.png" group-title="IPTV" CCTV-17
+rtp://225.1.4.227:2507
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2.png" group-title="IPTV" CCTV4中文国际欧洲
+rtp://225.1.5.31:1342
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E7%BE%8E%E6%B4%B2.png" group-title="IPTV" CCTV4中文国际美洲
+rtp://225.1.5.32:1343
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN%E8%8B%B1%E8%AF%AD.png" group-title="IPTV" CGTN英语
+rtp://225.1.5.34:1344
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN英文纪录" tvg-logo="https://epg.v1.mk/logo/CGTN%E8%8B%B1%E6%96%87%E7%BA%AA%E5%BD%95.png" group-title="IPTV" CGTN英文纪录
+rtp://225.1.5.35:1345
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN西班牙语" tvg-logo="https://epg.v1.mk/logo/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png" group-title="IPTV" CGTN西班牙语
+rtp://225.1.5.36:1346
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN法语" tvg-logo="https://epg.v1.mk/logo/CGTN%E6%B3%95%E8%AF%AD.png" group-title="IPTV" CGTN法语
+rtp://225.1.5.37:1347
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png" group-title="IPTV" CGTN阿拉伯语
+rtp://225.1.5.38:1348
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN%E4%BF%84%E8%AF%AD.png" group-title="IPTV" CGTN俄语
+rtp://225.1.5.39:1349
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 河南卫视
+rtp://225.1.4.51:1080
+#EXTINF:-1 tvg-id="" tvg-name="郑州时政频道" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%97%B6%E6%94%BF%E9%A2%91%E9%81%93.png" group-title="IPTV" 郑州时政频道
+rtp://225.1.4.143:1179
+#EXTINF:-1 tvg-id="" tvg-name="郑州商都频道" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%95%86%E9%83%BD%E9%A2%91%E9%81%93.png" group-title="IPTV" 郑州商都频道
+rtp://225.1.4.144:1180
+#EXTINF:-1 tvg-id="" tvg-name="郑州文体频道" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%96%87%E4%BD%93%E9%A2%91%E9%81%93.png" group-title="IPTV" 郑州文体频道
+rtp://225.1.4.145:1181
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 浙江卫视
+rtp://225.1.4.19:1048
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 东方卫视
+rtp://225.1.4.22:1051
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 天津卫视
+rtp://225.1.4.24:1053
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 安徽卫视
+rtp://225.1.4.20:1049
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 山东卫视
+rtp://225.1.4.27:1056
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 湖北卫视
+rtp://225.1.4.35:1064
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 深圳卫视
+rtp://225.1.4.23:1052
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 黑龙江卫视
+rtp://225.1.4.28:1057
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 北京卫视
+rtp://225.1.4.21:1050
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 湖南卫视
+rtp://225.1.4.17:1046
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 江苏卫视
+rtp://225.1.4.18:1047
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 广东卫视
+rtp://225.1.4.30:1059
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 辽宁卫视
+rtp://225.1.4.26:1055
+#EXTINF:-1 tvg-id="" tvg-name="爱体育高清" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="IPTV" 爱体育高清
+rtp://225.1.4.168:1220
+#EXTINF:-1 tvg-id="" tvg-name="高清纪实" tvg-logo="https://epg.v1.mk/logo/%E9%AB%98%E6%B8%85%E7%BA%AA%E5%AE%9E.png" group-title="IPTV" 高清纪实
+rtp://225.1.4.170:1222
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 东南卫视
+rtp://225.1.4.32:1061
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 贵州卫视
+rtp://225.1.4.41:1070
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 河北卫视
+rtp://225.1.4.34:1063
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 江西卫视
+rtp://225.1.4.37:1066
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 四川卫视
+rtp://225.1.4.40:1069
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 云南卫视
+rtp://225.1.4.33:1062
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 重庆卫视
+rtp://225.1.4.29:1058
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV" 吉林卫视
+rtp://225.1.4.36:1065
+#EXTINF:-1 tvg-id="" tvg-name="大象新闻" tvg-logo="https://epg.v1.mk/logo/%E5%A4%A7%E8%B1%A1%E6%96%B0%E9%97%BB.png" group-title="IPTV" 大象新闻
+rtp://225.1.5.45:1355
+#EXTINF:-1 tvg-id="" tvg-name="现场直播" tvg-logo="https://epg.v1.mk/logo/%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD.png" group-title="IPTV" 现场直播
+rtp://225.1.5.42:1352
+#EXTINF:-1 tvg-id="IPTV" tvg-name="河南IPTV-导视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97IPTV-%E5%AF%BC%E8%A7%86.png" group-title="IPTV" 河南IPTV-导视
+rtp://225.1.4.194:1244
+#EXTINF:-1 tvg-id="4K" tvg-name="河南卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="IPTV" 河南卫视4K
+rtp://225.1.4.254:1300
