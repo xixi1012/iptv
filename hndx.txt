@@ -15,6 +15,7 @@ CCTV-14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV-15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 CCTV-5+,http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 CCTV-17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+北京卫视4K,http://123.160.108.15:6610/PLTV1/190057/1.m3u8?
 CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 CETV1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 浙江卫视,http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
