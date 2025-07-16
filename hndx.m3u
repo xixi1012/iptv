@@ -35,7 +35,7 @@ http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 #EXTINF:-1,CCTV4K
 http://123.160.108.7:6610/PLTV1/190059/1.m3u8?
-#EXTINF:-1,河南卫视4K测试
+#EXTINF:-1,河南卫视4K
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 #EXTINF:-1,北京卫视4K
 http://123.160.108.15:6610/PLTV1/190057/1.m3u8?
