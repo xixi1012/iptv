@@ -59,3 +59,15 @@ http://r.jdshipin.com/CkuBd
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 group-title="港澳台",纬来精采台
 http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾",公视高清
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="台湾",民视高清
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="台湾",台视高清
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="香港",凤凰中文 (备用)
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯 (备用)
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 group-title="香港",翡翠台 (备用)
+https://cdn3.indevs.in/stream/tvb/fct/
