@@ -71,3 +71,5 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 group-title="香港",翡翠台 (备用)
 https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 group-title="澳门",Lotus TV (720p)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
