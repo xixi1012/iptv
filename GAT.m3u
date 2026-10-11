@@ -1,1 +1,235 @@
-I0VYVE0zVQojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLpppnmuK8iLEdvbGRlbiBKYWRlICgxMDgwcCkKaHR0cDovLzEwMy4xNzIuMTg3LjMwOjEyMDAwL3N0cmVhbS9teXR2L251bGwtMTIvbWFzdGVyLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i6aaZ5rivIixKYWRlICgxMDgwcCkKaHR0cDovLzEwMy4xNzIuMTg3LjMwOjEyMDAwL3N0cmVhbS9teXR2L251bGwtMS9tYXN0ZXIubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLpppnmuK8iLFJUSEsgVFYgMzEgKDEwODBwKSBbR2VvLWJsb2NrZWRdCmh0dHBzOi8vcnRoa3R2MzEtbGl2ZS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMzY4MTgvUlRIS1RWMzEvbWFzdGVyLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i6aaZ5rivIixUVkIgUGx1cwpodHRwOi8vci5qZHNoaXBpbi5jb20vTnI1anEKI0VYVElORjotMSBncm91cC10aXRsZT0i6aaZ5rivIixUVkIg5pif5rKzCmh0dHA6Ly9waHAuamRzaGlwaW4uY29tL1RWT0QvaXB0di5waHA/aWQ9eGluZ2hlCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iummmea4ryIs57+h57+g5Y+wCmh0dHA6Ly9yLmpkc2hpcGluLmNvbS9HZVdLcgojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLpppnmuK8iLOe/oee/oOWPsCA0SwpodHRwOi8vci5qZHNoaXBpbi5jb20vbjkwZ3QKI0VYVElORjotMSBncm91cC10aXRsZT0i5Y+w5rm+IixBWE4gQXNpYSBUYWl3YW4gKDEwODBwKQpodHRwOi8vMTI1LjIyNy4yMTAuNTU6NDA1MC9WaWRlb0lucHV0L3BsYXkudHMKI0VYVElORjotMSBncm91cC10aXRsZT0i5Y+w5rm+IixHb29kIFRWIChUYWl3YW4pICg3MjBwKSBbTm90IDI0LzddCmh0dHBzOi8vbGl2ZS5zdHJlYW1pbmdmYXN0Lm5ldC9vc21mbGl2ZWNoMS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IuWPsOa5viIsVFZCUyDmlrDpl7vlj7AKaHR0cDovLzYxLjIyMS4yMTUuMjU6ODgwMC9obHMvOS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IuWPsOa5viIsVFZCUy1Bc2lhICgxMDgwcCkKaHR0cDovLzM4LjY0LjcyLjE0OC9obHMvbW9kbi9saXN0LzQwMDUvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLlj7Dmub4iLFRhaXdhbiBJbmRpZ2Vub3VzIFRWICg3MjBwKQpodHRwczovL3N0cmVhbWlwY2ZhcHAuYWthbWFpemVkLm5ldC9saXZlL19kZWZpbnN0Xy9saXZlXzcyMC9rZXlfYjE1MDAubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLlj7Dmub4iLOS4ieeri+aIj+WJp+WPsApodHRwOi8vNjEuMjIxLjIxNS4yNTo4ODAwL2hscy80MS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IuWPsOa5viIs5Y+w6KeG5paw6Ze7Cmh0dHA6Ly8zOC42NC43Mi4xNDgvaGxzL21vZG4vbGlzdC80MDEzL2NodW5rbGlzdDEubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLmuK/mvrPlj7AiLEFzaWFuIERyYW1hICgxMDgwcCkKaHR0cDovLzEwMy4xNzIuMTg3LjMwOjEyMDAwL3N0cmVhbS9teXR2L251bGwtMTEvbWFzdGVyLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixCZWF1dGlmdWwgTGlmZSBUVgpodHRwczovLzVkZGNlMzBlYjRiNTUuc3RyZWFtbG9jay5uZXQvYmx0dmhkL2JsdHYxL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixDR05UViBDaGluZXNlICgxMDgwcCkKaHR0cHM6Ly9kM2UwNWNzc3M5YzI3Mi5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZjBiZjcxYzU3NTgxNDcwZmI5Mzc5ZjYwM2U4ZjVkODMvQ0dOV2ViTGl2ZUNOLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixEYWxpIFRWICg3MjBwKQpodHRwOi8vd3d3LmRhbGl0di5jb20udHc6NDU2OC9saXZlL2RhbGkvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLmuK/mvrPlj7AiLEdvb2QgMiAoNzIwcCkKaHR0cHM6Ly9saXZlLnN0cmVhbWluZ2Zhc3QubmV0L29zbWZsaXZlY2gyLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixNZWkgQWggTW92aWUgQ2hhbm5lbCAoMTA4MHApCmh0dHA6Ly8xMDMuMTcyLjE4Ny4zMDoxMjAwMC9zdHJlYW0vbXl0di9udWxsLTkvbWFzdGVyLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixOVEQgVFYgQXNpYS1QYWNpZmljCmh0dHBzOi8vbGl2ZS5udGR0di5jb20vYXBsaXZlMjAwL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixQZXQgQ2x1YiBUViAoMTA4MHApCmh0dHBzOi8vcGV0Y2x1Yi1zYW1zdW5nYXVzLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIixTdXByZW1lIE1hc3RlciBUViAoNzIwcCkKaHR0cHM6Ly9sYnMtdXMxLnN1cHJlbWVtYXN0ZXJ0di5jb20vNzIwcC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iua4r+a+s+WPsCIsV1hUViAoNDgwcCkKaHR0cHM6Ly9tb2JpbGUuY2NkbnRlY2guY29tL3RyYW5zY29kZXIvX2RlZmluc3RfL3ZvZDE2NF9MaXZlL2xpdmUvY2h1bmtsaXN0X3cxMTc3MDQ3NTMxLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIizkurrpl7Tljavop4YKaHR0cHM6Ly81ZGRjZTMwZWI0YjU1LnN0cmVhbWxvY2submV0L2JsdHZoZC9ibHR2MS9jaHVua2xpc3RfdzUxMTI1NDgwNS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iua4r+a+s+WPsCIs5YWr5aSn5oiP5Ymn5Y+wCmh0dHA6Ly82MS4yMjEuMjE1LjI1Ojg4MDAvaGxzLzM5L2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5riv5r6z5Y+wIizml6Dnur/mlrDpl7vlj7AKaHR0cDovL3IuamRzaGlwaW4uY29tL0NrdUJkCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iua4r+a+s+WPsCIs57qs5p2l57K+6YeH5Y+wCmh0dHA6Ly82MS4yMjEuMjE1LjI1Ojg4MDAvaGxzLzQ4L2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT0i5Y+w5rm+Iizlhazop4bpq5jmuIUKaHR0cDovLzIxMS43Mi4xNzQuOTU6ODExNi8wLnRzCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IuWPsOa5viIs5rCR6KeG6auY5riFCmh0dHA6Ly8yMTEuNzIuMTc0Ljk1OjgxMTUvMC50cwojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLlj7Dmub4iLOWPsOinhumrmOa4hQpodHRwOi8vMjExLjcyLjE3NC45NTo4MTEyLzAudHMKI0VYVElORjotMSBncm91cC10aXRsZT0i6aaZ5rivIizlh6Tlh7DkuK3mlocgKOWkh+eUqCkKaHR0cDovL3ptZ2QuenlybmV0LmNvbTo4ODg4L2hscy8xMTAvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSLpppnmuK8iLOWHpOWHsOi1hOiuryAo5aSH55SoKQpodHRwOi8vem1nZC56eXJuZXQuY29tOjg4ODgvaGxzLzEwOS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iummmea4ryIs57+h57+g5Y+wICjlpIfnlKgpCmh0dHBzOi8vY2RuMy5pbmRldnMuaW4vc3RyZWFtL3R2Yi9mY3QvCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9Iua+s+mXqCIsTG90dXMgVFYgKDcyMHApCmh0dHBzOi8vY2RuNC5za3lnby5tbi9saXZlL2Rpc2sxL0xvdHVzL0hMU3YzLUZUQS9Mb3R1cy5tM3U4Cg==
+#EXTM3U
+#EXTINF:-1 group-title="香港",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 group-title="香港",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 group-title="香港",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="香港",TVB 星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="香港",翡翠台
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 group-title="香港",翡翠台 4K
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 group-title="台湾",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾",Good TV (Taiwan) (720p) [Not 24/7]
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台湾",TVBS 新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾",TVBS-Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台湾",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台湾",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="台湾",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 group-title="港澳台",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="港澳台",Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台",Good 2 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="港澳台",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 group-title="港澳台",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="港澳台",WXTV (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="港澳台",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港澳台",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="港澳台",纬来精采台
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾",公视高清
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="台湾",民视高清
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="台湾",台视高清
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="香港",凤凰中文 (备用)
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰资讯 (备用)
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 group-title="香港",翡翠台 (备用)
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 group-title="澳门",Lotus TV (720p)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 group-title="香港",HOY TV
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="香港",翡翠台 1080P
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 group-title="台湾",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 group-title="港澳台",纬来体育
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠台 1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="香港",翡翠台北美版
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="香港",無線新聞
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 group-title="香港",無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 group-title="香港",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="香港",TVB明珠台
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+#EXTINF:-1 group-title="香港",ViuTV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="香港",港台電視31 (官方)
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港",港台電視32 (官方)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="香港",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="香港",翡翠4K
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="香港",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="香港",TVB千禧经典
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="香港",TVB无线华丽
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="香港",TVB无线功夫
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 group-title="香港",ViuTV Six
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 group-title="香港",港台電視 31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 group-title="香港",港台電視 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 group-title="香港",TVB无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="香港",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="香港",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="香港",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="香港",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="香港",SPOTV 1
+https://live.hkdvb.com/hls/live/710.m3u8?token=685252555987540
+#EXTINF:-1 group-title="香港",美亞電影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="香港",AXN
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="香港",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="香港",AT-X
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+#EXTINF:-1 group-title="香港",TVN
+https://edge.essastream.com/vozzmedia/index.m3u8
+#EXTINF:-1 group-title="香港",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="香港",Thrill
+https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
+#EXTINF:-1 group-title="香港",NewsWorld (1080p)
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="香港",TVB News Channel
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="香港",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台湾",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="台湾",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",TVBS亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="台湾",TVBS娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="台湾",TVBS生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+#EXTINF:-1 group-title="台湾",民视
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 group-title="台湾",华视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台湾",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台湾",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="台湾",原住民电视
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台湾",NTD TV
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 group-title="台湾",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台湾",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="台湾",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="台湾",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="台湾",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台湾",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="台湾",唯心電视
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="台湾",好消息
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台湾",好消息2
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="台湾",GOOD TV 综合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台湾",GOOD TV 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="台湾",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台湾",ELTA 2
+https://live.hkdvb.com/hls/live/704.m3u8?token=685252555980754
+#EXTINF:-1 group-title="台湾",ROCK Entertainment
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 group-title="台湾",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="台湾",HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+#EXTINF:-1 group-title="台湾",Lifetime
+https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+#EXTINF:-1 group-title="台湾",Smithsonian Channel
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1 group-title="台湾",SBN全球财经
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+#EXTINF:-1 group-title="台湾",DreamWorks
+https://cdn12.178.indevs.in/163189/dreamworks
+#EXTINF:-1 group-title="台湾",CTi News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="台湾",ET Mall 60
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="台湾",Genius Go Go Go
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="台湾",Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门",澳门资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
