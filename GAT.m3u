@@ -183,8 +183,6 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台湾",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1 group-title="台湾",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="台湾",龙华经典
@@ -235,3 +233,5 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="香港",RTHK TV 31 (港台電視31) (360p) [Geo-blocked]
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 group-title="台湾",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
