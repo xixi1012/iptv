@@ -237,3 +237,7 @@ http://125.227.210.55:1003/VideoInput/play.ts
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1 group-title="港澳台",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 group-title="香港",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 group-title="台湾",民视
+https://master.tucableip.com/ftvhd/index.m3u8
