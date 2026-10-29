@@ -29,6 +29,8 @@ http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV15
 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV16 4K
+http://222.85.69.6/PLTV/88888888/224/3221227280/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV17
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5%2B.png",CCTV5+
