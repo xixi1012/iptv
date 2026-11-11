@@ -121,8 +121,6 @@ http://r.jdshipin.com/yDoTN
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="香港",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 group-title="香港",SPOTV 1
-https://live.hkdvb.com/hls/live/710.m3u8?token=685252555987540
 #EXTINF:-1 group-title="香港",美亞電影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="香港",AXN
@@ -193,8 +191,6 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="台湾",ELTA 2
-https://live.hkdvb.com/hls/live/704.m3u8?token=685252555980754
 #EXTINF:-1 group-title="台湾",ROCK Entertainment
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 group-title="台湾",Love Nature
