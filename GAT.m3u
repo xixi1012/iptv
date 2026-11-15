@@ -161,8 +161,6 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台湾",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="台湾",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="台湾",生命电视
@@ -220,7 +218,7 @@ https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 group-title="台湾",Animax Asia Taiwan
 http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 group-title="台湾",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+https://8.fast.hidns.vip/163189/lhrh
 #EXTINF:-1 group-title="台湾",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 group-title="台湾",TTV News
@@ -244,4 +242,32 @@ https://live.hkdvb.com/hls/live/710.m3u8?token=685252555987540
 #EXTINF:-1 group-title="台湾",ELTA 2
 https://live.hkdvb.com/hls/live/704.m3u8?token=685252555980754
 #EXTINF:-1 group-title="台湾",Food Network
-http://168.196.127.137:6001/play/a09v/index.m3u8
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="香港",beIN SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 group-title="香港",beIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/34648
+#EXTINF:-1 group-title="香港",beIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/34632
+#EXTINF:-1 group-title="香港",CGTN English
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="香港",Now NEWS 新聞台
+http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+#EXTINF:-1 group-title="香港",SPOTV 2
+http://31.43.191.125:8080/restream/restream/34663
+#EXTINF:-1 group-title="澳门",澳门综艺
+https://cdn6.cc.cd/163189/amzy
+#EXTINF:-1 group-title="台湾",BBC Lifestyle
+http://31.43.191.125:8080/restream/restream/34623
+#EXTINF:-1 group-title="台湾",MOMO亲子台
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="台湾",东森美洲
+http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 group-title="台湾",东森超视
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻
+http://app.kds666.top:5566/api.php?id=1&s=3
+#EXTINF:-1 group-title="台湾",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="台湾",台视
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
