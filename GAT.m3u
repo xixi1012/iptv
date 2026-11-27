@@ -246,7 +246,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07
 #EXTINF:-1 group-title="香港",beIN SPORTS 2
 http://31.43.191.125:8080/restream/restream/34648
 #EXTINF:-1 group-title="香港",beIN SPORTS 3
-http://31.43.191.125:8080/restream/restream/34632
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58579.ts
 #EXTINF:-1 group-title="香港",CGTN English
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="香港",Now NEWS 新聞台
